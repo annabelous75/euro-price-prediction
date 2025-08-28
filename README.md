@@ -20,10 +20,9 @@ It provides both short-term (1 hour) and medium-term (48 hours) forecasts, visua
 # 🚀 How to Run Clone the repository:
 
 git clone https://github.com/YourUsername/euro-price-prediction.git
-cd eurusd-price-prediction
 
 Install dependencies:
-pip install -r requirements.txt
+pip install -r requirements
 
 Run the main script:
 python firstproject.py
