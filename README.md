@@ -18,12 +18,12 @@ It provides both short-term (1 hour) and medium-term (48 hours) forecasts, visua
 6. Saves trained ML models for future use.
 
 # Technologies & Tools
-Python – Data processing, modeling, automation
-pandas, NumPy – Data manipulation
-scikit-learn – ML modeling (Linear Regression, SVR, Random Forest)
-yfinance – Financial data retrieval
-Plotly – Interactive charts and dashboards
-joblib – Model serialization
+1. Python – Data processing, modeling, automation
+2. pandas, NumPy – Data manipulation
+3. scikit-learn – ML modeling (Linear Regression, SVR, Random Forest)
+4. yfinance – Financial data retrieval
+5. Plotly – Interactive charts and dashboards
+6. joblib – Model serialization
 
 # 🚀 How to Run Clone the repository:
 
