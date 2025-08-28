@@ -17,8 +17,7 @@ It provides both short-term (1 hour) and medium-term (48 hours) forecasts, visua
 5. Interactive visualization with Plotly: compare actual vs predicted prices, highlight forecast points and signals.
 6. Saves trained ML models for future use.
 
-🚀 How to Run
-Clone the repository:
+# 🚀 How to Run Clone the repository:
 
 git clone https://github.com/YourUsername/euro-price-prediction.git
 cd eurusd-price-prediction
